@@ -28,6 +28,8 @@ alias gpr="~/code/gpr $1"
 alias pro="cd ~/projects"
 alias gh="open -a google\ chrome 'http://github.com/befletcher'"
 alias bl="open -a google\ chrome 'http://browserling.com'"
+alias vhosts="sudo subl /etc/apache2/extra/httpd-vhosts.conf"
+alias hosts="sudo subl /etc/hosts"
 
 # be nice
 alias please=sudo
